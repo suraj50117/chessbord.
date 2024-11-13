@@ -1,0 +1,146 @@
+body
+{
+	margin:0px;
+	padding:0px;width:1300px;
+	margin:0px auto;
+	font-size:16px;
+	color:black;
+	background-color:lightgray;
+}
+.container
+{
+	width:1300px;
+	margin:0px auto;	
+}
+
+.head
+{
+	background-color:skyblue;
+	padding:6px;
+}
+.head b
+{
+	background-color:yellow;
+	color:black;
+	padding:10px;
+	font-size:30px;
+}
+.head marquee
+{
+	font-size:30px;
+	color:black;
+	width:80%;
+}
+.logo
+{
+	height:70px;
+	margin-top:0px;
+	margin-left:200px;
+	padding:0px;
+	
+}
+nav
+{
+	float:right;
+	padding:25px;
+}
+nav a
+{
+	color:white;
+	text-decoration:none;
+	font-size:30px;
+	justify-content:center;
+	align-items:center;
+	padding:2px 10px;
+	font-weight:500;
+}
+
+nav a:hover
+{
+	background-color:red;
+}
+.slider
+{
+	margin-top:0px;
+	margin:0px;
+	padding:0px;
+	
+}
+.main-section
+{
+	width:100%;
+	float:left;
+	padding:70px 0px 70px 0px;
+}
+/* .heading
+{
+	font-size:30px;
+	font-weight:500px; 
+	border-bottom:1px solid black;
+	color:black;
+	margin-bottom:20px;
+} */
+.event
+{
+	width:30%;
+	margin-right:1%;
+	float:left;
+	background-color:skyblue;
+	padding:10px;
+} 
+.event .heading
+{
+	border-bottom:1px solid black;
+	text-align:center;
+	background-color:yellow;
+	color:black;
+	padding:10px;
+}
+.placement1
+{
+	text-align:center;
+	border-bottom:1px solid black;
+	font-size:50px;
+	margin:0px;
+	padding:0px;
+}
+.placement .i
+{
+	width:50px;
+}
+.placement2
+{
+	text-align:center;
+	border-bottom:1px solid black;
+	font-size:1px;
+	margin:0px;
+	padding:0px;
+}
+ nav p
+{
+	color:black;
+	text-decoration:none;
+	font-size:30px;
+	padding:2px 10px;
+	font-weight:500;
+}
+.n
+{
+	width:100%;
+	height:100%;
+	margin:0px;
+}
+.s
+{
+	position:sticky;
+	top:0;
+	background-color:gray;
+}
+.profe{
+	float:left;
+}
+.context
+{
+	font-size:25px;
+	
+}
