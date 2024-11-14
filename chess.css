@@ -1,0 +1,29 @@
+body
+{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+.chess
+{
+	border:2px solid black;
+	width:50%;
+	height:900px;
+	display:flex;
+	flex-wrap:wrap;
+}.chess div
+{
+	height:112px;
+	width:calc(100%/8);
+	font-size:80px;
+	text-align:center;
+	text-shadow:0px 1px white;
+}
+.a
+{
+	background-color:white;	
+}
+.b
+{
+	background-color:black;
+}
